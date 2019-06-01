@@ -1,1 +1,2 @@
-file 1 init
+file 1 init;
+test 2
